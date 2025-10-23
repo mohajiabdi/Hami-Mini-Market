@@ -59,6 +59,7 @@ body {
   font-size: 1.4rem;
   opacity: 0; /* hidden by default */
   pointer-events: none; /* prevents clicking while hidden */
+  z-index: 999;
 }
 
 .to-top.show {
