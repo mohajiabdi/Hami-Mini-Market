@@ -62,7 +62,7 @@ Open the index.html file in your browser to view the landing page.
 🌍 Live Demo
 
 🔗 Live Site: View on GitHub Pages or Vercel
-Go to https://hami-mini-market.vercel.app/
+Go to https://hami-mini-market-alpha.vercel.app/
 
 🧑‍💻 Developer
 
