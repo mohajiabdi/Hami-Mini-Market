@@ -1,13 +1,13 @@
-#🛒 Hami MiniMarket Landing Page
+# 🛒 Hami MiniMarket Landing Page
 ## 🌐 Project Overview
 
 The Hami MiniMarket Landing Page is a responsive website built as part of the HamiSkills Web Development Internship (Week 1 Task).
 It showcases a local mini-market that sells fresh fruits and vegetables, promoting healthy living and community support.
 
-The page provides visitors with an overview of the market, a product showcase, and an easy way to contact the business.
+The page gives visitors an overview of the market, a product showcase, and an easy way to contact the business.
 
 
-##🎯 Project Purpose
+## 🎯 Project Purpose
 
 The goal of this project is to design and develop a clean, functional, and mobile-friendly landing page that:
 
@@ -19,7 +19,7 @@ Encourages customers to visit or order
 
 Reflects professional web design standards
 
-##🧱 Features
+## 🧱 Features
 
 Responsive layout for all devices (desktop, tablet, mobile)
 
@@ -37,15 +37,15 @@ Footer with social media links
 
 Interactive JavaScript feature (form Light/Dark Themes / back-to-top button)
 
-##🖥️ Technologies Used
+## 🖥️ Technologies Used
 
-###HTML5 – for structure and semantic layout
+### HTML5 – for structure and semantic layout
 
-###CSS3 (Flexbox & Grid) – for styling and responsiveness
+### CSS3 (Flexbox & Grid) – for styling and responsiveness
 
-###JavaScript (Vanilla JS) – for interactivity and functionality
+### JavaScript (Vanilla JS) – for interactivity and functionality
 
-##🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 Clone the repository:
 
@@ -65,9 +65,9 @@ Open the index.html file in your browser to view the landing page.
 
 🧑‍💻 Developer
 
-Name: Mohaji Abdi
-Track: Web Development – HamiSkills Internship
-Email: mo.haji.abi1@gmail.com
+###Name: Mohaji Abdi
+###Track: Web Development – HamiSkills Internship
+###Email: mo.haji.abi1@gmail.com
 
 
 
