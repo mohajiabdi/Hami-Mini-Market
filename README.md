@@ -1,5 +1,5 @@
 # 🛒 Hami MiniMarket Landing Page
-## 🌐 Project Overview
+ 🌐 Project Overview
 
 The Hami MiniMarket Landing Page is a responsive website built as part of the HamiSkills Web Development Internship (Week 1 Task).
 It showcases a local mini-market that sells fresh fruits and vegetables, promoting healthy living and community support.
