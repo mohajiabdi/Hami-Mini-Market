@@ -68,7 +68,7 @@ Go to https://hami-mini-market-alpha.vercel.app/
 
 ### Name: Mohaji Abdi
 ### Track: Web Development – HamiSkills Internship
-### Email: mo.haji.abi1@gmail.com
+
 
 
 
