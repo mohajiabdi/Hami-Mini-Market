@@ -65,9 +65,9 @@ Open the index.html file in your browser to view the landing page.
 
 🧑‍💻 Developer
 
-###Name: Mohaji Abdi
-###Track: Web Development – HamiSkills Internship
-###Email: mo.haji.abi1@gmail.com
+### Name: Mohaji Abdi
+### Track: Web Development – HamiSkills Internship
+### Email: mo.haji.abi1@gmail.com
 
 
 
