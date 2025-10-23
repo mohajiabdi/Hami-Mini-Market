@@ -54,7 +54,7 @@ git clone https://github.com/mohajiabdi/Hami-Mini-Market/new/main
 
 Open the project folder:
 
-cd hami-minimarket-landing-page
+cd hami-mini-market
 
 
 Open the index.html file in your browser to view the landing page.
